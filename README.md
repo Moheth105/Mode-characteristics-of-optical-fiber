@@ -63,6 +63,9 @@ The source coupler consists of two base plates:
 <img width="618" height="722" alt="image" src="https://github.com/user-attachments/assets/b611cde3-a1f1-4bf4-ac7a-9de89f4b6f53" />
 
 # Observation and Calculation
+
+![WhatsApp Image 2026-01-31 at 1 35 25 PM](https://github.com/user-attachments/assets/27195cf1-c3d4-4fff-8503-1b3e9fda7f9b)
+
 Parameters of given fiber:  
 - Core radius \(A = 4.5 \, \mu m\)  
 - Numerical Aperture \(NA = 0.11\)  
